@@ -8,6 +8,11 @@ primary_region = 'sjc'
 
 [build]
 
+# Add runtime environment variables
+[env]
+  NODE_ENV = 'production'
+  DONATION_BUTTON_ACTIVE = 'false'
+
 [http_service]
   internal_port = 3000
   force_https = true
