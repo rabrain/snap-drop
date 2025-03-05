@@ -1,0 +1,26 @@
+# fly.toml app configuration file generated for pair-drop on 2025-03-05T19:37:00+08:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = 'pair-drop'
+primary_region = 'sjc'
+swap_size_mb = 512
+
+[build]
+
+# Add runtime environment variables
+[env]
+  NODE_ENV = 'production'
+  DONATION_BUTTON_ACTIVE = 'false'
+
+[http_service]
+  internal_port = 3000
+  force_https = true
+  auto_stop_machines = 'stop'
+  auto_start_machines = true
+  min_machines_running = 1
+  processes = ['app']
+
+[[vm]]
+  size = 'shared-cpu-1x'
