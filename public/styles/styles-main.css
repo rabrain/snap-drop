@@ -696,7 +696,7 @@ button::-moz-focus-inner {
     z-index: 32;
     overflow: hidden;
     pointer-events: none;
-    text-align: center;
+    /* text-align: center; */
 }
 
 #about header {
