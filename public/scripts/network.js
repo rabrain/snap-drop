@@ -293,7 +293,7 @@ class ServerConnection {
     }
 
     _onVisibilityChange() {
-        if (window.hiddenProperty) return;
+        if (window.hiddenProperty && document[window.hiddenProperty]) return;
         this._connect();
     }
 
