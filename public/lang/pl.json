@@ -1,7 +1,7 @@
 {
     "header": {
         "language-selector_title": "Ustaw język",
-        "about_aria-label": "Otwórz \"O PairDrop\"",
+        "about_aria-label": "Otwórz \"O SnapDrop\"",
         "theme-light_title": "Zawsze używaj jasnego motywu",
         "theme-dark_title": "Zawsze używaj ciemnego motywu",
         "pair-device_title": "Sparuj swoje urządzenia na stałe",
@@ -10,20 +10,20 @@
         "cancel-share-mode": "Anuluj",
         "edit-share-mode": "Edytuj",
         "expand_title": "Rozwiń rząd przycisków",
-        "about_title": "O PairDrop",
+        "about_title": "O SnapDrop",
         "theme-auto_title": "Dostosuj motyw do motywu systemowego",
         "notification_title": "Włącz powiadomienia",
-        "install_title": "Zainstaluj PairDrop"
+        "install_title": "Zainstaluj SnapDrop"
     },
     "instructions": {
         "no-peers_data-drop-bg": "Zwolnij, aby wybrać odbiorcę",
-        "no-peers-title": "Otwórz PairDrop na innych urządzeniach, aby wysłać pliki",
+        "no-peers-title": "Otwórz SnapDrop na innych urządzeniach, aby wysłać pliki",
         "x-instructions_desktop": "Kliknij, aby wysłać pliki lub kliknij prawym przyciskiem myszy, aby wysłać wiadomość",
         "x-instructions_mobile": "Naciśnij, aby wysłać pliki lub naciśnij i przytrzymaj, aby wysłać wiadomość",
         "x-instructions_data-drop-bg": "Zwolnij, aby wybrać odbiorcę",
         "x-instructions-share-mode_desktop": "Kliknij, aby wysłać {{descriptor}}",
         "x-instructions-share-mode_mobile": "Naciśnij, aby wysłać {{descriptor}}",
-        "activate-share-mode-base": "Otwórz PairDrop na innych urządzeniach, aby wysłać",
+        "activate-share-mode-base": "Otwórz SnapDrop na innych urządzeniach, aby wysłać",
         "activate-share-mode-and-other-file": "i 1 inny plik",
         "activate-share-mode-shared-text": "udostępniony tekst",
         "activate-share-mode-shared-file": "udostępniony plik",
@@ -31,7 +31,7 @@
         "x-instructions_data-drop-peer": "Zwolnij, aby wysłać do odbiorcy",
         "activate-share-mode-and-other-files-plural": "i {{count}} innych plików",
         "activate-share-mode-shared-files-plural": "{{count}} udostępnionych plików",
-        "webrtc-requirement": "Aby móc korzystać z tej instancji PairDrop, należy włączyć WebRTC!"
+        "webrtc-requirement": "Aby móc korzystać z tej instancji SnapDrop, należy włączyć WebRTC!"
     },
     "footer": {
         "known-as": "Jesteś widoczny jako:",
@@ -110,16 +110,16 @@
         "close-toast_title": "Zamknij powiadomienie"
     },
     "about": {
-        "close-about_aria-label": "Zamknij \"O PairDrop\"",
+        "close-about_aria-label": "Zamknij \"O SnapDrop\"",
         "claim": "Najłatwiejszy sposób na przesyłanie plików między urządzeniami",
         "buy-me-a-coffee_title": "Kup me kawę!",
-        "mastodon_title": "Napisz o PairDrop na Mastodonie",
+        "mastodon_title": "Napisz o SnapDrop na Mastodonie",
         "bluesky_title": "Śledź nas na BlueSky",
         "custom_title": "Śledź nas",
         "privacypolicy_title": "Otwórz naszą Politykę Prywatności",
         "faq_title": "Często zadawane pytania (FAQ)",
-        "github_title": "PairDrop na GitHub",
-        "tweet_title": "Tweetnij o PairDrop"
+        "github_title": "SnapDrop na GitHub",
+        "tweet_title": "Tweetnij o SnapDrop"
     },
     "notifications": {
         "display-name-changed-permanently": "Wyświetlana nazwa została zmieniona na stałe",
@@ -154,7 +154,7 @@
         "file-transfer-completed": "Przesyłanie plików zakończone",
         "ios-memory-limit": "Jednorazowe przesyłanie plików do iOS jest możliwe tylko do 200 MB",
         "message-transfer-completed": "Przesyłanie wiadomości zakończone",
-        "unfinished-transfers-warning": "Istnieją niedokończone transfery. Czy na pewno chcesz zamknąć PairDrop?",
+        "unfinished-transfers-warning": "Istnieją niedokończone transfery. Czy na pewno chcesz zamknąć SnapDrop?",
         "rate-limit-join-key": "Osiągnięto limit. Poczekaj 10 sekund i spróbuj ponownie.",
         "selected-peer-left": "Wybrany uczestnik opuścił",
         "display-name-changed-temporarily": "Wyświetlana nazwa została zmieniona na czas tej sesji",

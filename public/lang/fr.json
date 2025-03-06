@@ -1,13 +1,13 @@
 {
     "header": {
-        "about_title": "À propos de PairDrop",
+        "about_title": "À propos de SnapDrop",
         "language-selector_title": "Choix de la langue",
-        "about_aria-label": "Ouvrir à propos de PairDrop",
+        "about_aria-label": "Ouvrir à propos de SnapDrop",
         "theme-auto_title": "Adapter le thème au système",
         "theme-light_title": "Toujours utiliser le thème clair",
         "theme-dark_title": "Toujours utiliser le thème sombre",
         "notification_title": "Activer les notifications",
-        "install_title": "Installer PairDrop",
+        "install_title": "Installer SnapDrop",
         "pair-device_title": "Associez vos appareils de manière permanente",
         "edit-paired-devices_title": "Gérer les appareils couplés",
         "join-public-room_title": "Rejoindre temporairement la salle publique",
@@ -17,7 +17,7 @@
     },
     "instructions": {
         "no-peers_data-drop-bg": "Déposer pour choisir le destinataire",
-        "no-peers-title": "Ouvrez PairDrop sur d'autres appareils pour envoyer des fichiers",
+        "no-peers-title": "Ouvrez SnapDrop sur d'autres appareils pour envoyer des fichiers",
         "no-peers-subtitle": "Associez des appareils ou entrez dans une salle publique pour être visible sur d'autres réseaux",
         "x-instructions_desktop": "Cliquez pour envoyer des fichiers ou faites un clic droit pour envoyer un message",
         "x-instructions_mobile": "Appuyez pour envoyer des fichiers ou appuyez longuement pour envoyer un message",
@@ -25,11 +25,11 @@
         "x-instructions_data-drop-bg": "Lâcher pour choisir le destinataire",
         "x-instructions-share-mode_desktop": "Cliquez pour envoyer {{descriptor}}",
         "x-instructions-share-mode_mobile": "Appuyez pour envoyer {{descriptor}}",
-        "activate-share-mode-base": "Ouvrez PairDrop sur d'autres appareils pour envoyer",
+        "activate-share-mode-base": "Ouvrez SnapDrop sur d'autres appareils pour envoyer",
         "activate-share-mode-and-other-files-plural": "et {{count}} autres fichiers",
         "activate-share-mode-shared-text": "texte partagé",
         "activate-share-mode-shared-file": "fichier partagé",
-        "webrtc-requirement": "Pour utiliser cette instance de PairDrop, WebRTC doit être activé !",
+        "webrtc-requirement": "Pour utiliser cette instance de SnapDrop, WebRTC doit être activé !",
         "activate-share-mode-shared-files-plural": "{{count}} fichiers partagés",
         "activate-share-mode-and-other-file": "et un autre fichier"
     },
@@ -111,16 +111,16 @@
         "close-toast_title": "Fermer la notification"
     },
     "about": {
-        "close-about_aria-label": "Fermer à propos de PairDrop",
+        "close-about_aria-label": "Fermer à propos de SnapDrop",
         "claim": "Le moyen le plus simple de transférer des fichiers entre appareils",
-        "github_title": "PairDrop sur GitHub",
+        "github_title": "SnapDrop sur GitHub",
         "buy-me-a-coffee_title": "Achetez-moi un café !",
-        "tweet_title": "Tweet à propos de PairDrop",
+        "tweet_title": "Tweet à propos de SnapDrop",
         "faq_title": "Questions fréquemment posées",
         "bluesky_title": "Suis-nous sur BlueSky",
         "custom_title": "Suis-nous",
         "privacypolicy_title": "Ouvert sur notre politique de confidentialité",
-        "mastodon_title": "Écrire à propos de PairDrop sur Mastodon"
+        "mastodon_title": "Écrire à propos de SnapDrop sur Mastodon"
     },
     "notifications": {
         "display-name-changed-permanently": "Le nom d'affichage est modifié de manière permanente",
@@ -158,7 +158,7 @@
         "file-transfer-completed": "Transfert de fichier terminé",
         "ios-memory-limit": "L'envoi de fichiers vers iOS n'est possible que jusqu'à 200 Mo à la fois",
         "message-transfer-completed": "Transfert de message terminé",
-        "unfinished-transfers-warning": "Il y a des transferts inachevés. Êtes-vous sûr de vouloir fermer PairDrop ?",
+        "unfinished-transfers-warning": "Il y a des transferts inachevés. Êtes-vous sûr de vouloir fermer SnapDrop ?",
         "rate-limit-join-key": "Limite de débit atteinte. Attendez 10 secondes et réessayez.",
         "selected-peer-left": "Appareils sélectionnés restants",
         "pair-url-copied-to-clipboard": "Lien de couplage de cet appareil copié dans le presse-papier",

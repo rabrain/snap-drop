@@ -1,7 +1,7 @@
 {
     "header": {
-        "about_aria-label": "Адкрыйце Аб PairDrop",
-        "about_title": "Аб PairDrop",
+        "about_aria-label": "Адкрыйце Аб SnapDrop",
+        "about_title": "Аб SnapDrop",
         "theme-auto_title": "Аўтаматычная адаптацыя тэмы да сістэмы",
         "theme-light_title": "Заўсёды выкарыстоўваць светлую тэму",
         "theme-dark_title": "Заўсёды выкарыстоўваць цёмную тэму",
@@ -10,14 +10,14 @@
         "join-public-room_title": "Часова далучыцца да публічнага пакоя",
         "cancel-share-mode": "Адмяніць",
         "language-selector_title": "Задаць мову",
-        "install_title": "Усталяваць PairDrop",
+        "install_title": "Усталяваць SnapDrop",
         "pair-device_title": "Злучыце свае прылады назаўжды",
         "edit-share-mode": "Рэдагаваць",
         "expand_title": "Разгарнуць радок кнопак"
     },
     "instructions": {
         "no-peers_data-drop-bg": "Адпусціце, каб выбраць атрымальніка",
-        "no-peers-title": "Адкрыйце PairDrop на іншых прыладах, каб адправіць файлы",
+        "no-peers-title": "Адкрыйце SnapDrop на іншых прыладах, каб адправіць файлы",
         "x-instructions_data-drop-peer": "Адпусціце, каб адправіць вузлу",
         "x-instructions_data-drop-bg": "Адпусціце, каб выбраць атрымальніка",
         "x-instructions-share-mode_mobile": "Дакраніцеся, каб адправіць {{descriptor}}",
@@ -30,7 +30,7 @@
         "x-instructions_mobile": "Дакраніцеся, каб адправіць файлы, або доўга трымайце, каб адправіць паведамленне",
         "x-instructions-share-mode_desktop": "Націсніце, каб адправіць {{descriptor}}",
         "x-instructions_desktop": "Націсніце, каб адправіць файлы, або націсніце правай кнопкай мышы, каб адправіць паведамленне",
-        "activate-share-mode-base": "Адкрыйце PairDrop на іншых прыладах, каб адправіць",
+        "activate-share-mode-base": "Адкрыйце SnapDrop на іншых прыладах, каб адправіць",
         "activate-share-mode-shared-file": "агульны файл"
     },
     "footer": {
@@ -111,13 +111,13 @@
     },
     "about": {
         "buy-me-a-coffee_title": "Купіць мне кавы!",
-        "mastodon_title": "Напішыце пра PairDrop на Mastodon",
-        "tweet_title": "Твіт пра PairDrop",
-        "github_title": "PairDrop на GitHub",
+        "mastodon_title": "Напішыце пра SnapDrop на Mastodon",
+        "tweet_title": "Твіт пра SnapDrop",
+        "github_title": "SnapDrop на GitHub",
         "custom_title": "Сачыце за намі",
         "bluesky_title": "Сачыце за намі на BlueSky",
         "faq_title": "Часта задаюць пытанні",
-        "close-about_aria-label": "Закрыць Аб PairDrop",
+        "close-about_aria-label": "Закрыць Аб SnapDrop",
         "claim": "Самы просты спосаб перадачы файлаў паміж прыладамі",
         "privacypolicy_title": "Адкрыйце нашу палітыку прыватнасці"
     },
@@ -161,7 +161,7 @@
         "display-name-changed-temporarily": "Адлюстраванае імя зменена толькі для гэтага сеансу",
         "ios-memory-limit": "Адначасовая адпраўка файлаў на iOS магчымая толькі да 200 МБ",
         "message-transfer-completed": "Перадача паведамлення завершана",
-        "unfinished-transfers-warning": "Ёсць незавершаныя перадачы. Вы ўпэўнены, што хочаце закрыць PairDrop?",
+        "unfinished-transfers-warning": "Ёсць незавершаныя перадачы. Вы ўпэўнены, што хочаце закрыць SnapDrop?",
         "rate-limit-join-key": "Ліміт хуткасці дасягнуты. Пачакайце 10 секунд і паўтарыце спробу."
     },
     "peer-ui": {

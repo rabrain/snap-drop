@@ -1,9 +1,9 @@
 {
     "header": {
-        "install_title": "Nainštalovať PairDrop",
-        "about_title": "O službe PairDrop",
+        "install_title": "Nainštalovať SnapDrop",
+        "about_title": "O službe SnapDrop",
         "language-selector_title": "Nastaviť jazyk",
-        "about_aria-label": "Otvoriť \"O službe PairDrop\"",
+        "about_aria-label": "Otvoriť \"O službe SnapDrop\"",
         "theme-auto_title": "Automaticky prispôsobiť tému systému",
         "edit-share-mode": "Upraviť",
         "expand_title": "Rozbaliť riadok tlačítka záhlavia",
@@ -17,7 +17,7 @@
     },
     "instructions": {
         "no-peers_data-drop-bg": "Pustite pre vybratie príjemcu",
-        "no-peers-title": "Otvorte PairDrop na iných zariadeniach pre posielanie súborov",
+        "no-peers-title": "Otvorte SnapDrop na iných zariadeniach pre posielanie súborov",
         "x-instructions_desktop": "Kliknite pre poslanie súborov alebo kliknite pravým tlačidlom pre poslanie správy",
         "x-instructions_data-drop-peer": "Pustite pre odoslanie",
         "x-instructions_data-drop-bg": "Pustením vyberiete príjemcu",
@@ -28,10 +28,10 @@
         "activate-share-mode-shared-files-plural": "{{count}} zdieľaných súborov",
         "no-peers-subtitle": "Spárujte zariadenia alebo vstúpte do verejnej miestnosti pre viditeľnosť v iných sieťach",
         "x-instructions_mobile": "Ťuknite pre poslanie súboru alebo podržte pre poslanie správy",
-        "webrtc-requirement": "Pre použitie PairDrop-u je nevyhnutné povoliť WebRTC!",
+        "webrtc-requirement": "Pre použitie SnapDrop-u je nevyhnutné povoliť WebRTC!",
         "x-instructions-share-mode_desktop": "Kliknutím odošlete {{descriptor}}",
         "x-instructions-share-mode_mobile": "Ťuknutím odošlete {{descriptor}}",
-        "activate-share-mode-base": "Pre odoslanie otvorte PairDrop na iných zariadeniach"
+        "activate-share-mode-base": "Pre odoslanie otvorte SnapDrop na iných zariadeniach"
     },
     "footer": {
         "known-as": "Si pomenovaný ako:",
@@ -147,22 +147,22 @@
         "file-transfer-completed": "Prenos súboru dokončený",
         "ios-memory-limit": "Odosielanie súborov do iOS je možné len do veľkosti 200 MB",
         "message-transfer-completed": "Správa odoslaná",
-        "unfinished-transfers-warning": "Máš nedokončené prenosy. Naozaj chceš zavrieť PairDrop?",
+        "unfinished-transfers-warning": "Máš nedokončené prenosy. Naozaj chceš zavrieť SnapDrop?",
         "rate-limit-join-key": "Dosiahol si limit. Počkaj 10 sekúnd a skús znovu.",
         "selected-peer-left": "Vybraný užívateľ sa odpojil",
         "notifications-permissions-error": "Notifikačné oprávnenie bolo zablokované, keďže užívateľ niekoľkokrát odmietol notifikačnú výzvu. Toto sa dá resetovat v nastavení webu, po kliknutí na ikonu zámku pri URL paneli."
     },
     "about": {
-        "github_title": "PairDrop na GitHube",
+        "github_title": "SnapDrop na GitHube",
         "claim": "Jednoduchý spôsob posielania súborov medzi zariadeniami",
         "buy-me-a-coffee_title": "Kúp mi kávičku!",
-        "tweet_title": "Tweetuj o PairDrop",
-        "mastodon_title": "Napíš o PairDrop na Mastodon",
+        "tweet_title": "Tweetuj o SnapDrop",
+        "mastodon_title": "Napíš o SnapDrop na Mastodon",
         "bluesky_title": "Sleduj nás na BlueSky",
         "custom_title": "Sleduj nás",
         "privacypolicy_title": "Naše zásady o ochrane súkromia",
         "faq_title": "Často kladené otázky",
-        "close-about_aria-label": "Zatvoriť \"O službe PairDrop\""
+        "close-about_aria-label": "Zatvoriť \"O službe SnapDrop\""
     },
     "document-titles": {
         "file-received": "Súbor prijatý",

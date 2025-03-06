@@ -22,18 +22,18 @@
         "cancel": "Sefsex"
     },
     "about": {
-        "github_title": "PairDrop deg GitHub",
-        "close-about_aria-label": "Mdel Ɣef PairDrop"
+        "github_title": "SnapDrop deg GitHub",
+        "close-about_aria-label": "Mdel Ɣef SnapDrop"
     },
     "notifications": {
         "connecting": "Tuqqna…",
         "connected": "Yeqqen"
     },
     "header": {
-        "about_aria-label": "Ldi Ɣef PairDrop",
-        "about_title": "Ɣef PairDrop",
+        "about_aria-label": "Ldi Ɣef SnapDrop",
+        "about_title": "Ɣef SnapDrop",
         "language-selector_title": "Fren tutlayt",
-        "install_title": "Sbedd PairDrop",
+        "install_title": "Sbedd SnapDrop",
         "edit-share-mode": "Ẓreg"
     }
 }

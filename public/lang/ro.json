@@ -16,7 +16,7 @@
     },
     "notifications": {
         "request-title": "{{name}} ar dori să transfere {{count}} {{descriptor}}",
-        "unfinished-transfers-warning": "Există transferuri neterminate. Sigur vrei să închizi PairDrop?",
+        "unfinished-transfers-warning": "Există transferuri neterminate. Sigur vrei să închizi SnapDrop?",
         "message-received": "Mesaj primit de {{name}} - Apasă pentru a copia",
         "rate-limit-join-key": "A fost atinsă limita ratei. Așteptați 10 secunde și încercați din nou.",
         "connecting": "Conectarea…",
@@ -60,15 +60,15 @@
     "header": {
         "cancel-share-mode": "Anulare",
         "theme-auto_title": "Adaptează tema la sistem",
-        "install_title": "Instalează PairDrop",
+        "install_title": "Instalează SnapDrop",
         "theme-dark_title": "Utilizați mereu tema întunecoasă",
         "pair-device_title": "Împerechează-ți permanent dispozitivele",
         "join-public-room_title": "Alătură-te temporar camerei publice",
         "notification_title": "Activați notificări",
         "edit-paired-devices_title": "Editați dispozitivele împerecheate",
         "language-selector_title": "Setează Limba",
-        "about_title": "Despre PairDrop",
-        "about_aria-label": "Deschide Despre PairDrop",
+        "about_title": "Despre SnapDrop",
+        "about_aria-label": "Deschide Despre SnapDrop",
         "theme-light_title": "Utilizați mereu tema luminoasă",
         "expand_title": "Extindeți rândul de butoane antet",
         "edit-share-mode": "Editați"
@@ -78,18 +78,18 @@
         "x-instructions-share-mode_desktop": "Faceți clic pentru a trimite {{descriptor}}",
         "activate-share-mode-and-other-files-plural": "și {{count}} alte fișiere",
         "x-instructions-share-mode_mobile": "Atingeți pentru a trimite {{descriptor}}",
-        "activate-share-mode-base": "Deschideți PairDrop pe alte dispozitive pentru a trimite",
+        "activate-share-mode-base": "Deschideți SnapDrop pe alte dispozitive pentru a trimite",
         "no-peers-subtitle": "Împerecheați dispozitive sau intrați într-o cameră publică pentru a fi descoperit în alte rețele",
         "activate-share-mode-shared-text": "text partajat",
         "x-instructions_desktop": "Dați clic pentru a trimite fișiere sau dați clic dreapta pentru a trimite un mesaj",
-        "no-peers-title": "Deschideți PairDrop pe alte dispozitive pentru a trimite fișiere",
+        "no-peers-title": "Deschideți SnapDrop pe alte dispozitive pentru a trimite fișiere",
         "x-instructions_data-drop-peer": "Eliberare pentru a trimite la peer",
         "x-instructions_data-drop-bg": "Eliberați pentru a selecta recipientul",
         "no-peers_data-drop-bg": "Eliberați pentru a selecta destinatarul",
         "activate-share-mode-shared-files-plural": "{{count}} fișiere partajate",
         "activate-share-mode-shared-file": "fișier partajat",
         "activate-share-mode-and-other-file": "și încă 1 fișier",
-        "webrtc-requirement": "Pentru a utiliza această instanță PairDrop, WebRTC trebuie să fie activat!"
+        "webrtc-requirement": "Pentru a utiliza această instanță SnapDrop, WebRTC trebuie să fie activat!"
     },
     "peer-ui": {
         "processing": "Procesarea…",
@@ -163,14 +163,14 @@
     },
     "about": {
         "claim": "Cel mai simplu mod de a transfera fișiere între dispozitive",
-        "tweet_title": "Tweet despre PairDrop",
-        "close-about_aria-label": "Închide Despre PairDrop",
+        "tweet_title": "Tweet despre SnapDrop",
+        "close-about_aria-label": "Închide Despre SnapDrop",
         "buy-me-a-coffee_title": "Cumpără-mi o cafea!",
-        "github_title": "PairDrop pe GitHub",
+        "github_title": "SnapDrop pe GitHub",
         "faq_title": "Întrebări frecvente",
         "bluesky_title": "Urmărește-ne pe BlueSky",
         "privacypolicy_title": "Deschideți politica noastră de confidențialitate",
-        "mastodon_title": "Scrieți despre PairDrop pe Mastodon",
+        "mastodon_title": "Scrieți despre SnapDrop pe Mastodon",
         "custom_title": "Urmăriți-ne"
     },
     "document-titles": {
