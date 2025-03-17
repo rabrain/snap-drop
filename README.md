@@ -117,15 +117,13 @@ Connect to others in complex network situations, or over the Internet.
 [Host your own instance with Docker or Node.js](docs/host-your-own.md).
 
 ## Support
-<iframe src="https://github.com/sponsors/in-fun/button" title="Sponsor in-fun" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
 <a href="https://www.buymeacoffee.com/infun" target="_blank">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy me a coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
 <br />
-<br />
 
-SnapDrop is libre, and always will be. \
+SnapDrop is free, and always will be. \
 If you find it useful and want to support free and open-source software, please consider donating using the button above. \
 I footed the bill for the domain and the server, and you can help create and maintain great software by supporting me. \
 Thank you very much for your contribution!
