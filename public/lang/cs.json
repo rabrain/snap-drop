@@ -1,14 +1,14 @@
 {
     "header": {
-        "about_aria-label": "Otevřít o PairDrop",
-        "about_title": "O službě PairDrop",
+        "about_aria-label": "Otevřít o SnapDrop",
+        "about_title": "O službě SnapDrop",
         "language-selector_title": "Nastavit jazyk",
         "theme-auto_title": "Automatické přizpůsobení tématu systému",
         "pair-device_title": "Spárovat zařízení permanentně",
         "theme-light_title": "Vždy používat světlé téma",
         "theme-dark_title": "Vždy používat tmavé téma",
         "notification_title": "Povolit upozornění",
-        "install_title": "Nainstalovat PairDrop",
+        "install_title": "Nainstalovat SnapDrop",
         "edit-paired-devices_title": "Upravit spárovaná zařízení",
         "join-public-room_title": "Připojte se dočasně k veřejné místnosti",
         "cancel-share-mode": "Zrušit",
@@ -17,11 +17,11 @@
     },
     "about": {
         "buy-me-a-coffee_title": "Kupte mi kávu!",
-        "close-about_aria-label": "Zavřít O PairDrop",
+        "close-about_aria-label": "Zavřít O SnapDrop",
         "claim": "Nejjednodušší způsob přenosu souborů mezi zařízeními",
-        "github_title": "PairDrop na GitHubu",
-        "tweet_title": "Tweet o PairDrop",
-        "mastodon_title": "Napište o PairDrop na Mastodon",
+        "github_title": "SnapDrop na GitHubu",
+        "tweet_title": "Tweet o SnapDrop",
+        "mastodon_title": "Napište o SnapDrop na Mastodon",
         "custom_title": "Sledujte nás",
         "privacypolicy_title": "Otevřete naše zásady ochrany osobních údajů",
         "bluesky_title": "Sledujte nás na BlueSky",
@@ -105,7 +105,7 @@
     },
     "instructions": {
         "no-peers_data-drop-bg": "Uvolněním vyberte příjemce",
-        "no-peers-title": "Otevřete PairDrop na jiných zařízeních a posílejte soubory",
+        "no-peers-title": "Otevřete SnapDrop na jiných zařízeních a posílejte soubory",
         "no-peers-subtitle": "Spárujte zařízení nebo vstupte do veřejné místnosti, abyste byli zjistitelní v jiných sítích",
         "x-instructions_desktop": "Kliknutím odešlete soubory nebo kliknutím pravým tlačítkem odešlete zprávu",
         "x-instructions_mobile": "Klepnutím odešlete soubory nebo dlouhým klepnutím odešlete zprávu",
@@ -113,13 +113,13 @@
         "x-instructions_data-drop-bg": "Uvolněním vyberte příjemce",
         "x-instructions-share-mode_desktop": "Kliknutím odešlete {{descriptor}}",
         "x-instructions-share-mode_mobile": "Klepnutím odešlete {{descriptor}}",
-        "activate-share-mode-base": "Pro odeslání otevřete PairDrop na jiných zařízeních",
+        "activate-share-mode-base": "Pro odeslání otevřete SnapDrop na jiných zařízeních",
         "activate-share-mode-and-other-file": "a 1 další soubor",
         "activate-share-mode-and-other-files-plural": "a {{count}} dalších souborů",
         "activate-share-mode-shared-text": "sdílený text",
         "activate-share-mode-shared-file": "sdílený soubor",
         "activate-share-mode-shared-files-plural": "{{count}} sdílených souborů",
-        "webrtc-requirement": "Chcete-li použít PairDrop, musí být povoleno WebRTC!"
+        "webrtc-requirement": "Chcete-li použít SnapDrop, musí být povoleno WebRTC!"
     },
     "notifications": {
         "display-name-changed-permanently": "Zobrazované jméno je trvale změněno",
@@ -160,7 +160,7 @@
         "file-transfer-completed": "Přenos souborů byl dokončen",
         "message-transfer-completed": "Přenos zprávy byl dokončen",
         "ios-memory-limit": "Odesílání souborů do iOS je možné pouze do velikosti 200 MB najednou",
-        "unfinished-transfers-warning": "Existují nedokončené přenosy Opravdu chcete zavřít PairDrop?",
+        "unfinished-transfers-warning": "Existují nedokončené přenosy Opravdu chcete zavřít SnapDrop?",
         "rate-limit-join-key": "Bylo dosaženo limitu. Počkejte 10 sekund a zkuste to znovu.",
         "selected-peer-left": "Vybraný partner odešel"
     },

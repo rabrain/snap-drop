@@ -38,7 +38,7 @@
         "files-incorrect": "Filerne er forkerte",
         "file-transfer-completed": "Filoverførsel gennemført",
         "message-transfer-completed": "Beskedoverførsel gennemført",
-        "unfinished-transfers-warning": "Der er uafsluttede overførsler. Er du sikker på, at du vil lukke PairDrop?",
+        "unfinished-transfers-warning": "Der er uafsluttede overførsler. Er du sikker på, at du vil lukke SnapDrop?",
         "rate-limit-join-key": "Satsgrænsen er nået. Vent 10 sekunder, og prøv igen.",
         "selected-peer-left": "Valgt peer forlod"
     },
@@ -106,37 +106,37 @@
     "about": {
         "claim": "Den nemmeste måde at overføre filer på tværs af enheder",
         "faq_title": "Ofte stillede spørgsmål",
-        "close-about_aria-label": "Luk Om PairDrop",
-        "github_title": "PairDrop på GitHub",
+        "close-about_aria-label": "Luk Om SnapDrop",
+        "github_title": "SnapDrop på GitHub",
         "buy-me-a-coffee_title": "Køb mig en kop kaffe!",
-        "tweet_title": "Tweet om PairDrop",
-        "mastodon_title": "Skriv om PairDrop på Mastodon",
+        "tweet_title": "Tweet om SnapDrop",
+        "mastodon_title": "Skriv om SnapDrop på Mastodon",
         "bluesky_title": "Følg os på BlueSky",
         "custom_title": "Følg os",
         "privacypolicy_title": "Åbn vores privatlivspolitik"
     },
     "header": {
         "language-selector_title": "Indstil sprog",
-        "about_aria-label": "Åbn Om PairDrop",
+        "about_aria-label": "Åbn Om SnapDrop",
         "theme-auto_title": "Tilpas temaet til systemet automatisk",
         "theme-light_title": "Brug altid lyst tema",
         "theme-dark_title": "Brug altid mørkt tema",
         "notification_title": "Aktiver notifikationer",
-        "install_title": "Installer PairDrop",
+        "install_title": "Installer SnapDrop",
         "pair-device_title": "Par dine enheder permanent",
         "edit-paired-devices_title": "Rediger parrede enheder",
         "join-public-room_title": "Deltag midlertidigt i det offentlige rum",
         "cancel-share-mode": "Annuller",
         "edit-share-mode": "Redigere",
         "expand_title": "Udvid overskriftsknaprækken",
-        "about_title": "Om PairDrop"
+        "about_title": "Om SnapDrop"
     },
     "instructions": {
         "no-peers-subtitle": "Par enheder, eller gå ind i et offentligt rum for at være synlig på andre netværk",
         "x-instructions_desktop": "Klik for at sende filer eller højreklik for at sende en besked",
-        "activate-share-mode-base": "Åbn PairDrop på andre enheder for at sende",
+        "activate-share-mode-base": "Åbn SnapDrop på andre enheder for at sende",
         "no-peers_data-drop-bg": "Slip for at vælge modtager",
-        "no-peers-title": "Åbn PairDrop på andre enheder for at sende filer",
+        "no-peers-title": "Åbn SnapDrop på andre enheder for at sende filer",
         "x-instructions_mobile": "Tryk for at sende filer, eller tryk længe for at sende en besked",
         "x-instructions_data-drop-peer": "Slip for at sende til peer",
         "x-instructions_data-drop-bg": "Slip for at vælge modtager",
@@ -147,7 +147,7 @@
         "activate-share-mode-shared-text": "delt tekst",
         "activate-share-mode-shared-file": "delt fil",
         "activate-share-mode-shared-files-plural": "{{count}} delte filer",
-        "webrtc-requirement": "For at bruge denne PairDrop-instans skal WebRTC være aktiveret!"
+        "webrtc-requirement": "For at bruge denne SnapDrop-instans skal WebRTC være aktiveret!"
     },
     "footer": {
         "on-this-network_title": "Du kan blive opdaget af alle på dette netværk.",

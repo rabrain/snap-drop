@@ -1,13 +1,13 @@
 {
     "header": {
-        "about_title": "Sobre o PairDrop",
+        "about_title": "Sobre o SnapDrop",
         "language-selector_title": "Definir idioma",
-        "about_aria-label": "Abrir Sobre o PairDrop",
+        "about_aria-label": "Abrir Sobre o SnapDrop",
         "theme-auto_title": "Adaptar o tema ao sistema automaticamente",
         "theme-light_title": "Sempre usar o tema claro",
         "theme-dark_title": "Sempre usar o tema escuro",
         "notification_title": "Ativar notificações",
-        "install_title": "Instalar o PairDrop",
+        "install_title": "Instalar o SnapDrop",
         "pair-device_title": "Emparelhar seus dispositivos permanentemente",
         "edit-paired-devices_title": "Editar dispositivos emparelhados",
         "join-public-room_title": "Entrar em uma sala pública temporariamente",
@@ -17,7 +17,7 @@
     },
     "instructions": {
         "no-peers_data-drop-bg": "Solte para selecionar o destinatário",
-        "no-peers-title": "Abra o PairDrop em outros dispositivos para enviar arquivos",
+        "no-peers-title": "Abra o SnapDrop em outros dispositivos para enviar arquivos",
         "no-peers-subtitle": "Emparelhe dispositivos ou entre em uma sala pública para ser descoberto em outras redes",
         "x-instructions_desktop": "Clique para enviar arquivos ou clique com o botão direito para enviar uma mensagem",
         "x-instructions_mobile": "Toque para enviar arquivos ou toque e segure para enviar uma mensagem",
@@ -25,13 +25,13 @@
         "x-instructions_data-drop-bg": "Solte para selecionar o destinatário",
         "x-instructions-share-mode_desktop": "Clique para enviar {{descriptor}}",
         "x-instructions-share-mode_mobile": "Toque para enviar {{descriptor}}",
-        "activate-share-mode-base": "Abra o PairDrop em outros dispositivos para enviar",
+        "activate-share-mode-base": "Abra o SnapDrop em outros dispositivos para enviar",
         "activate-share-mode-and-other-files-plural": "e {{count}} outros arquivos",
         "activate-share-mode-shared-text": "texto compartilhado",
         "activate-share-mode-shared-files-plural": "{{count}} arquivos compartilhados",
         "activate-share-mode-shared-file": "arquivo compartilhado",
         "activate-share-mode-and-other-file": "e 1 outro arquivo",
-        "webrtc-requirement": "Para usar essa instância do PairDrop, o WebRTC deve estar habilitado!"
+        "webrtc-requirement": "Para usar essa instância do SnapDrop, o WebRTC deve estar habilitado!"
     },
     "footer": {
         "known-as": "Você é conhecido como:",
@@ -110,13 +110,13 @@
         "base64-title-text": "Compartilhar texto"
     },
     "about": {
-        "close-about_aria-label": "Fechar Sobre o PairDrop",
+        "close-about_aria-label": "Fechar Sobre o SnapDrop",
         "claim": "A maneira mais fácil de transferir arquivos entre dispositivos",
-        "github_title": "PairDrop no GitHub",
+        "github_title": "SnapDrop no GitHub",
         "buy-me-a-coffee_title": "Me compre um café!",
-        "tweet_title": "Tweet sobre o PairDrop",
+        "tweet_title": "Tweet sobre o SnapDrop",
         "faq_title": "Perguntas frequentes",
-        "mastodon_title": "Escrever sobre PairDrop no Mastodon",
+        "mastodon_title": "Escrever sobre SnapDrop no Mastodon",
         "bluesky_title": "Siga-nos no BlueSky",
         "custom_title": "Siga-nos",
         "privacypolicy_title": "Abra nossa política de privacidade"
@@ -160,7 +160,7 @@
         "file-transfer-completed": "Transferência de arquivo concluída",
         "ios-memory-limit": "Enviar arquivos para iOS só é possível até 200 MB de uma vez",
         "message-transfer-completed": "Transferência de mensagem concluída",
-        "unfinished-transfers-warning": "Há transferências inacabadas. Tem certeza de que deseja fechar o PairDrop?",
+        "unfinished-transfers-warning": "Há transferências inacabadas. Tem certeza de que deseja fechar o SnapDrop?",
         "rate-limit-join-key": "Limite de taxa atingido. Aguarde 10 segundos e tente novamente.",
         "selected-peer-left": "Par selecionado saiu"
     },
