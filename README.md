@@ -10,7 +10,7 @@
     <br>
     Inspired by Apple's AirDrop.
     <br> 
-    Fork of Snapdrop.
+    Fork of Snapdrop & PairDrop
     <br>
     <br>
     <a href="issues">Report a bug</a>
