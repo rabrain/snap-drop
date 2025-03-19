@@ -12,7 +12,6 @@ swap_size_mb = 512
 # Add runtime environment variables
 [env]
   NODE_ENV = 'production'
-  DONATION_BUTTON_ACTIVE = 'false'
 
 [http_service]
   internal_port = 3000
